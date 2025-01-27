@@ -3,7 +3,7 @@
 using namespace std;
 
 void inscrever(){//void não retorna nada, e não tem argumentos
-	cout << "\nVc precisa parar de bater punheta vendo porno, Isso e uma ilusao cara, vc nao esta transando!\n";
+	cout << "\nFunção que apenas mostra algo na tela\n";
 }
 int t;//variavel global; ou seja serve para todas as funçoes;
 #define pi 3.14;//variável constante;
